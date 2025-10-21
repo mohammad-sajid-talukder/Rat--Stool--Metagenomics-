@@ -1,4 +1,4 @@
-# Rat--Stool--Metagenomics-
+
 # 🐀 Manual DNA Extraction from Rat Stool Sample for Metagenomic Analysis
 
 **Category:** Molecular Biology | Metagenomic Analysis  
