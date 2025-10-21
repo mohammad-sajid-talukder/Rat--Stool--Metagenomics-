@@ -163,8 +163,11 @@ DNA bands visualized under UV
 
 ---
 
-## 🔗 Optional Badges
-![DNA Extraction](https://img.shields.io/badge/DNA-Extraction-blue?style=for-the-badge) 
-![PCR](https://img.shields.io/badge/PCR-Amplification-yellow?style=for-the-badge) 
-![Gel](https://img.shields.io/badge/Gel-Electrophoresis-green?style=for-the-badge) 
-![NanoDrop](https://img.shields.io/badge/NanoDrop-Quantification-orange?style=for-the-badge)
+## 🧾 Author & Credits
+
+**Researcher:** *[Md. Sajid Talukder ]*  
+**Institution:** *[Department of Biomedical Engineering, Islamic University,Bangladesh ]*  
+**Date:** *[October , 2025]*  
+**Tools Used:** Nanodrop, centrifuge, vortex, DNA extraction reagent , PCR Master Mix, pcr machine, electrophoresis tools
+
+---
